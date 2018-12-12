@@ -5,7 +5,7 @@
 `conda create -n tensorflow python=3.5`
 3. Activate environment: 
 `conda activate tensorflow`
-4. Install remaining packages (jupyter, notebook and tensorflow): 
+4. Install remaining packages (jupyter, notebook, tensorflow, matplotlib): 
 `conda install jupyter notebook tensorflow matplotlib`
 
 If everything went well, you should be able to start up the notebook server with `jupyter notebook` (please activate the environment before).
