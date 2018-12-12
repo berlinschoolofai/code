@@ -6,7 +6,7 @@
 3. Activate environment: 
 `conda activate tensorflow`
 4. Install remaining packages (jupyter, notebook and tensorflow): 
-`conda install jupyter notebook tensorflow`
+`conda install jupyter notebook tensorflow matplotlib`
 
 If everything went well, you should be able to start up the notebook server with `jupyter notebook` (please activate the environment before).
 Create a new notebook and select the fresh environment as your kernel. 
